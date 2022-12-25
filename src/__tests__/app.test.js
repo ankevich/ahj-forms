@@ -1,4 +1,4 @@
 // empty jest test
-test("Empty test", () => {
+test('Empty test', () => {
   expect(true).toBe(true);
 });

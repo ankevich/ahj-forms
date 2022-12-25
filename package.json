@@ -49,10 +49,7 @@
   "jest": {
     "testPathIgnorePatterns": [
       "/node_modules/",
-      "/e2e/"
+      "e2e"
     ]
-  },
-  "dependencies": {
-    "bootstrap": "^5.2.3"
   }
 }
