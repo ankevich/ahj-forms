@@ -1,0 +1,7 @@
+/* position content of the containerqq on a center of screen with flexbox*/
+.container-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
